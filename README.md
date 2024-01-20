@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone 👋, I'm Alvenio Farhan Prayogo</h1>
 
-![codingperson](https://github.com/AlvenioFarhan/AlvenioFarhan/assets/37578802/71dad116-b8d7-4679-8ef1-8da7e65b97fc)
+![](https://github.com/AlvenioFarhan/AlvenioFarhan/blob/main/codingperson.gif)
 
 <h3 align="center">Graduate of Informatics Engineering from Stikubank University Semarang, with GPA 3.60. Currently taking part in the Full Stack Developer Bootcamp at Harisenin.com, where I learn more about Frontend Developer and Backend Developer. Previously participated in a frontend developer bootcamp using React JS. Now I want to become a Full Time Programmer both Onsite and Remote. An individual who quickly adapts to the environment and wants to become a programmer who is an expert in his field.</h3>
 
