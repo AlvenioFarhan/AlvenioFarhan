@@ -1,6 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Al</h1>
 
-<img style="text-align: center;" align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img style="text-align: center;  display: flex;
+  justify-content: center;" align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="center">Graduate of Informatics Engineering from Stikubank University Semarang, with GPA 3.60. Currently taking part in the Full Stack Developer Bootcamp at Harisenin.com, where I learn more about Frontend Developer and Backend Developer. Previously participated in a frontend developer bootcamp using React JS. Now I want to become a Full Time Programmer both Onsite and Remote. An individual who quickly adapts to the environment and wants to become a programmer who is an expert in his field.</h3>
 
