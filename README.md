@@ -2,7 +2,7 @@
 
 <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="center">Graduate of Informatics Engineering from Stikubank University Semarang, with GPA 3.60. Currently taking part in the Full Stack Developer Bootcamp at Harisenin.com, where I learn more about Frontend Developer and Backend Developer. Previously participated in a frontend developer bootcamp using React JS. Now I want to become a Full Time Programmer both Onsite and Remote. An individual who quickly adapts to the environment and wants to become a programmer who is an expert in his field.</h3>
+<h3 align="center">I'm an enthusiastic web developer with a focus on creating user-friendly, responsive websites that function flawlessly. My proficiency in HTML, CSS, JavaScript, PHP, Java, and other frameworks allows me to convert design ideas into digital solutions that are both interactive and practical. I guarantee that I deliver creative and effective solutions to every project thanks to my dedication to lifelong learning and keeping up with the most recent advancements in web technology. Together, let's connect!</h3>
 
 - 👨‍💻 All of my projects are available at [https://personal-web-portofolio-v1.vercel.app/](https://personal-web-portofolio-v1.vercel.app/)
 
